@@ -1,0 +1,14 @@
+pip install mysql-connector-python
+sudo apt-get install python3-tk
+
+#useful websites and github repos 
+
+#Understand basic MVC structure
+https://github.com/eliaskone/MVC-Python-Tkinter-Database-Application/blob/master/src/View.py
+https://www.tutorialspoint.com/how-to-separate-view-and-controller-in-python-tkinter
+https://www.youtube.com/watch?v=YXPyB4XeYLA&t=679s
+
+
+
+
+
